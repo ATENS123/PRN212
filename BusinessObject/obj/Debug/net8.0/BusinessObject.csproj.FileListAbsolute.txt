@@ -1,0 +1,11 @@
+D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll

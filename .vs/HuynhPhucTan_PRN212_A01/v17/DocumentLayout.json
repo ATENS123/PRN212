@@ -1,0 +1,643 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\huynhphuctanwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E73C420-F45C-4A8A-93DE-8CA9CC27ABDD}|DataAccessLayer\\DataAccessLayer.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\dataaccesslayer\\bookingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E73C420-F45C-4A8A-93DE-8CA9CC27ABDD}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E73C420-F45C-4A8A-93DE-8CA9CC27ABDD}|DataAccessLayer\\DataAccessLayer.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\dataaccesslayer\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E73C420-F45C-4A8A-93DE-8CA9CC27ABDD}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\huynhphuctanwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96929D5-7C41-434B-8D30-8A54B2C721B4}|BusinessObject\\BusinessObject.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\businessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96929D5-7C41-434B-8D30-8A54B2C721B4}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\huynhphuctanwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E73C420-F45C-4A8A-93DE-8CA9CC27ABDD}|DataAccessLayer\\DataAccessLayer.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E73C420-F45C-4A8A-93DE-8CA9CC27ABDD}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\huynhphuctanwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\huynhphuctanwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\services\\iroomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|solutionrelative:services\\iroomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\services\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|solutionrelative:services\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\repositories\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\repositories\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\huynhphuctanwpf\\huynhphuctanwpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\huynhphuctanwpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\huynhphuctanwpf\\customerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\customerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\huynhphuctanwpf\\roomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\roomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\huynhphuctanwpf\\roomdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\roomdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96929D5-7C41-434B-8D30-8A54B2C721B4}|BusinessObject\\BusinessObject.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\businessobject\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96929D5-7C41-434B-8D30-8A54B2C721B4}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\huynhphuctanwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96929D5-7C41-434B-8D30-8A54B2C721B4}|BusinessObject\\BusinessObject.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\businessobject\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96929D5-7C41-434B-8D30-8A54B2C721B4}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\huynhphuctanwpf\\huynhphuctanwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EFE20DF-F2F2-42B6-A044-1AF61AA0607B}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\huynhphuctanwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E73C420-F45C-4A8A-93DE-8CA9CC27ABDD}|DataAccessLayer\\DataAccessLayer.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\dataaccesslayer\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E73C420-F45C-4A8A-93DE-8CA9CC27ABDD}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|solutionrelative:services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|solutionrelative:services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\services\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|solutionrelative:services\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|solutionrelative:services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\services\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522E08E8-7E6E-4F02-A21A-52C1E272FFFE}|Services\\Services.csproj|solutionrelative:services\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\repositories\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9983869E-C93D-420F-A6A2-0C5945BADD7B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96929D5-7C41-434B-8D30-8A54B2C721B4}|BusinessObject\\BusinessObject.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a01\\businessobject\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96929D5-7C41-434B-8D30-8A54B2C721B4}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomTypeDAO.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\DataAccessLayer\\RoomTypeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\RoomTypeDAO.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\DataAccessLayer\\RoomTypeDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\RoomTypeDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:19:42.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingDAO.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\DataAccessLayer\\BookingDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BookingDAO.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\DataAccessLayer\\BookingDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BookingDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:03:12.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\AdminWindow.xaml.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "HuynhPhucTanWPF\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwGAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:31:07.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\BusinessObject\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Customer.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\BusinessObject\\Customer.cs",
+              "RelativeToolTip": "BusinessObject\\Customer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:34:30.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "HuynhPhucTanWPF\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:31:14.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HuynhPhucTanWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:18:40.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAsAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:00:18.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\LoginWindow.xaml",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\LoginWindow.xaml",
+              "RelativeToolTip": "HuynhPhucTanWPF\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-21T07:49:42.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\MainWindow.xaml",
+              "RelativeToolTip": "HuynhPhucTanWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T08:18:43.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRoomTypeService.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\IRoomTypeService.cs",
+              "RelativeDocumentMoniker": "Services\\IRoomTypeService.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\IRoomTypeService.cs",
+              "RelativeToolTip": "Services\\IRoomTypeService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:15:11.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomTypeService.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\RoomTypeService.cs",
+              "RelativeDocumentMoniker": "Services\\RoomTypeService.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\RoomTypeService.cs",
+              "RelativeToolTip": "Services\\RoomTypeService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:16:49.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRoomTypeRepository.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\IRoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRoomTypeRepository.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\IRoomTypeRepository.cs",
+              "RelativeToolTip": "Repositories\\IRoomTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:43:33.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomTypeRepository.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\RoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RoomTypeRepository.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\RoomTypeRepository.cs",
+              "RelativeToolTip": "Repositories\\RoomTypeRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:44:36.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HuynhPhucTanWPF",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj",
+              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj",
+              "RelativeToolTip": "HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T09:52:28.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerDialog.xaml",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\CustomerDialog.xaml",
+              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\CustomerDialog.xaml",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\CustomerDialog.xaml",
+              "RelativeToolTip": "HuynhPhucTanWPF\\CustomerDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-21T09:02:18.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoomDialog.xaml.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\RoomDialog.xaml.cs",
+              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\RoomDialog.xaml.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\RoomDialog.xaml.cs",
+              "RelativeToolTip": "HuynhPhucTanWPF\\RoomDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:43:40.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomDialog.xaml",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\RoomDialog.xaml",
+              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\RoomDialog.xaml",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\RoomDialog.xaml",
+              "RelativeToolTip": "HuynhPhucTanWPF\\RoomDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-21T09:12:15.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\AdminWindow.xaml",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\AdminWindow.xaml",
+              "RelativeToolTip": "HuynhPhucTanWPF\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-21T08:12:33.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\BusinessObject\\Room.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Room.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\BusinessObject\\Room.cs",
+              "RelativeToolTip": "BusinessObject\\Room.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:33:46.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:16:11.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\BusinessObject\\Booking.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Booking.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\BusinessObject\\Booking.cs",
+              "RelativeToolTip": "BusinessObject\\Booking.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:02:15.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HuynhPhucTanWPF",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj",
+              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj",
+              "RelativeToolTip": "HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T07:19:45.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "Services\\RoomService.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\RoomService.cs",
+              "RelativeToolTip": "Services\\RoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:16:33.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookingRepository.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:04:37.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\IRoomService.cs",
+              "RelativeDocumentMoniker": "Services\\IRoomService.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\IRoomService.cs",
+              "RelativeToolTip": "Services\\IRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:14:52.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\ICustomerService.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:14:22.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoomDAO.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\DataAccessLayer\\RoomDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\RoomDAO.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\DataAccessLayer\\RoomDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\RoomDAO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:19:28.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RoomRepository.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "Repositories\\RoomRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:45:41.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Services",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T07:05:16.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "Services\\BookingService.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\BookingService.cs",
+              "RelativeToolTip": "Services\\BookingService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:06:11.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:37:15.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\IBookingService.cs",
+              "RelativeDocumentMoniker": "Services\\IBookingService.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Services\\IBookingService.cs",
+              "RelativeToolTip": "Services\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:04:56.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRoomRepository.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\IRoomRepository.cs",
+              "RelativeToolTip": "Repositories\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:45:19.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICustomerRepository.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:34:22.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBookingRepository.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\IBookingRepository.cs",
+              "RelativeToolTip": "Repositories\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:04:18.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Repositories.csproj",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T09:36:09.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\BusinessObject\\RoomType.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\RoomType.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A01\\BusinessObject\\RoomType.cs",
+              "RelativeToolTip": "BusinessObject\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:20:02.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
