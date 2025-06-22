@@ -9,3 +9,4 @@ D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\obj\Debug\net8.0\BusinessO
 D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
 D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
 D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll
+D:\DotNet\Test\HuynhPhucTan_PRN212_A01\BusinessObject\obj\Debug\net8.0\BusinessObject.sourcelink.json

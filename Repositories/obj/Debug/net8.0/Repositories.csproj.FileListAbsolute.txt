@@ -15,3 +15,4 @@ D:\DotNet\Test\HuynhPhucTan_PRN212_A01\Repositories\obj\Debug\net8.0\Repositorie
 D:\DotNet\Test\HuynhPhucTan_PRN212_A01\Repositories\obj\Debug\net8.0\refint\Repositories.dll
 D:\DotNet\Test\HuynhPhucTan_PRN212_A01\Repositories\obj\Debug\net8.0\Repositories.pdb
 D:\DotNet\Test\HuynhPhucTan_PRN212_A01\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\DotNet\Test\HuynhPhucTan_PRN212_A01\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json

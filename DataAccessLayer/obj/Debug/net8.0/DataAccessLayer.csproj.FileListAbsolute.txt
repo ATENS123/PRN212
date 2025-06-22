@@ -13,3 +13,4 @@ D:\DotNet\Test\HuynhPhucTan_PRN212_A01\DataAccessLayer\obj\Debug\net8.0\DataAcce
 D:\DotNet\Test\HuynhPhucTan_PRN212_A01\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
 D:\DotNet\Test\HuynhPhucTan_PRN212_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
 D:\DotNet\Test\HuynhPhucTan_PRN212_A01\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\DotNet\Test\HuynhPhucTan_PRN212_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
